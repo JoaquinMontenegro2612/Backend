@@ -1,0 +1,19 @@
+[{
+   "title": "Margarita",
+   "price": 600,
+   "thumbnail": "https://images.squarespace-cdn.com/content/v1/5d28c86af7147800016c2701/1572016074179-43NNDWEBAKRN08Q7E779/La+Nina?format=500w",
+   "id": 1
+ },
+ {
+   "title": "Boomerang",
+   "price":500,
+   "thumbnail": "https://images.squarespace-cdn.com/content/v1/5d28c86af7147800016c2701/1572035118091-LFZY7ZSPE0AEGO9A71NX/Wandering-Barman_Bottle_Boomerang.png?format=500w",
+   "id": 2
+ },
+ {
+   "title": "FOMO",
+   "price": 400,
+   "thumbnail": "https://images.squarespace-cdn.com/content/v1/5d28c86af7147800016c2701/1572035653967-FG37EMPW6EO4CFC2FFEE/Wandering-Barman_Bottle_FOMO.png?format=500w",
+   "id": 3
+ }
+]
